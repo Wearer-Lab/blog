@@ -3,14 +3,18 @@ const CONFIG = {
   profile: {
     name: "Next Notes",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Digital Health | Wearable AI",
-    bio: "A wearable powered scribing app (www.next-notes.com) that helps ambulatory health practitioners create, manage and organize notes (SOAP, H&P) for online or in-person consultations.",
+    role: "Digital Health | Wearable | AI",
+    bio: "AI-powered wearable app (www.next-notes.com) that helps ambulatory health practitioners create, manage and organize medical records (SOAP, H&P) for online or in-person consultations.",
     email: "hello@next-notes.com",
     linkedin: "Next-Notes",
     github: "Wearer-Lab",
     instagram: "Next-Notes",
   },
   projects: [
+    {
+      name: `Wearer Lab`,
+      href: "https://wearer.xyz",
+    },
     {
       name: `Next Notes App`,
       href: "https://next-notes.com",
