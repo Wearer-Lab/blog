@@ -18,7 +18,7 @@ const CONFIG = {
     {
       name: `Next Notes App`,
       href: "https://next-notes.com",
-    },
+    }
   ],
   // blog setting (required)
   blog: {
