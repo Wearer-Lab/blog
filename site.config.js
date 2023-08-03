@@ -12,13 +12,9 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Wearer Lab`,
-      href: "https://wearer.xyz",
-    },
-    {
-      name: `Next Notes App`,
+      name: `Web App`,
       href: "https://next-notes.com",
-    }
+    },
   ],
   // blog setting (required)
   blog: {
